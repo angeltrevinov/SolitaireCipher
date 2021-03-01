@@ -1,4 +1,4 @@
-#Solitaire Cipher
+# Solitaire Cipher
 
 This is an implementation of the solitaire Cipher for the english alphabet
 
